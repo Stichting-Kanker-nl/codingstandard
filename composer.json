@@ -1,0 +1,22 @@
+{
+  "name": "oneshoe/codingstandard",
+  "type": "phpcodesniffer-standard",
+  "description": "One Shoe coding standard for Drupal.",
+  "homepage": "https://www.oneshoe.com",
+  "support": {
+    "issues": "https://jira.office.oneshoe.nl/projects/OSTR/issues",
+    "source": "https://stash.office.oneshoe.nl/projects/OS/repos/codingstandard/browse"
+  },
+  "keywords": [
+    "phpcs",
+    "standards",
+    "code review"
+  ],
+  "license": "GPL-2.0+",
+  "require": {
+    "drupal/coder": "^8.2"
+  },
+  "require-dev": {
+    "dealerdirect/phpcodesniffer-composer-installer": "*"
+  }
+}
