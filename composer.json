@@ -1,11 +1,11 @@
 {
-  "name": "oneshoe/codingstandard",
+  "name": "Stichting-Kanker-nl/codingstandard",
   "type": "phpcodesniffer-standard",
-  "description": "One Shoe coding standard for Drupal.",
-  "homepage": "https://www.oneshoe.com",
+  "description": "Stichting-Kanker-nl coding standard for Drupal.",
+  "homepage": "https://www.kanker.nl",
   "support": {
-    "issues": "https://jira.office.oneshoe.nl/projects/OSTR/issues",
-    "source": "https://stash.office.oneshoe.nl/projects/OS/repos/codingstandard/browse"
+    "issues": "https://github.com/Stichting-Kanker-nl/codingstandard/issues",
+    "source": "https://github.com/Stichting-Kanker-nl/codingstandard"
   },
   "keywords": [
     "phpcs",
