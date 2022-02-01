@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<ruleset name="OneShoe">
-    <description>Drupal coding standards for One Shoe</description>
+<ruleset name="KankerNl">
+    <description>Drupal coding standards for KankerNl</description>
 
     <rule ref="Drupal"/>
     <rule ref="DrupalPractice"/>
