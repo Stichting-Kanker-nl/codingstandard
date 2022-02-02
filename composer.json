@@ -1,5 +1,5 @@
 {
-  "name": "Stichting-Kanker-nl/codingstandard",
+  "name": "stichting-kanker-nl/codingstandard",
   "type": "phpcodesniffer-standard",
   "description": "Stichting-Kanker-nl coding standard for Drupal.",
   "homepage": "https://www.kanker.nl",
